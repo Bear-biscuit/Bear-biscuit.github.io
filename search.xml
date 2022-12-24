@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>超好用的PC下载器</title>
+      <link href="/2022/12/24/IDM%E4%B8%8B%E8%BD%BD%E5%99%A8/"/>
+      <url>/2022/12/24/IDM%E4%B8%8B%E8%BD%BD%E5%99%A8/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><ul><li>IDM是一款非常强大的资源下载神器，可以自动识别网页上的资源并下载</li><li>多线程下载，可以轻松跑满带宽</li><li>搭配一些解析网站或油猴插件，可以突破百度云的下载限制</li></ul><h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><ul><li>IDM官网下载</li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>实用的网站</title>
       <link href="/2022/12/23/%E4%B8%80%E4%BA%9B%E4%B8%8D%E9%94%99%E7%9A%84%E7%BD%91%E7%AB%99/"/>
       <url>/2022/12/23/%E4%B8%80%E4%BA%9B%E4%B8%8D%E9%94%99%E7%9A%84%E7%BD%91%E7%AB%99/</url>
@@ -20,29 +33,7 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>tags</title>
+      <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
       
@@ -53,9 +44,31 @@
     
     
     <entry>
-      <title>link</title>
+      <title>友链</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
